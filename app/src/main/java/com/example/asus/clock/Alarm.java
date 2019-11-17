@@ -7,6 +7,7 @@ import java.util.Calendar;
  */
 
 public class Alarm {
+    //闹钟类
     private int whichAlarm=1;
     private String time;
     private String alarmStatus="ON";
